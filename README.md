@@ -1,2 +1,2 @@
-# diego-tsds-programacionI
-Repositorio para proyecto de Programacion I de la carrera TSDS del ITSE
+# diego-tsds-tic
+Repositorio para proyecto de Tecnologia de la informacion de la carrera TSDS del ITSE
